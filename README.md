@@ -1,7 +1,9 @@
-fdt
+FDT (Fast Data Transfer)
 ===
 
 monalisa.cern.ch - Fast Data Transfer (FDT)
+
+http://monalisa.cern.ch/FDT
 
 Examples:
 
